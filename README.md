@@ -2,10 +2,10 @@
 
 ## Autor
 
-| **Nombre y Apellidos** |         **Correo**         |               **GitHub**               |
+| **Nombres y Apellidos** |         **Correo**         |               **GitHub**               |
 | :--------------------: | :------------------------: | :------------------------------------: |
-|  Ariel Plasencia Díaz  | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL) |
+|  Alex Manuel Gomez Salazar  | salsarflaco@gmail.com | [@Lic-AlexGomez]([https://github.com/ArielXL](https://github.com/Lic-AlexGomez)) |
 
 ## Link
 
-Para acceder al sitio web presione [aquí](https://arielxl.github.io/mi-viaje/).
+Para acceder al sitio web presione [aquí](https://lic-alexgomez.github.io/mi-viaje/).
